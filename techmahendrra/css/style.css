@@ -1,0 +1,64 @@
+h2{
+	padding-top: 20px;
+	padding-left: 20px;
+	font-style: italic;
+}
+.navbar-nav{
+	font-size: 20px;
+}
+ul li a:hover{
+	background-color: blue;
+	color: yellow;
+}
+ul li .active a{
+	background-color: blue;
+	color: yellow;
+}
+.carousel-caption p{
+	font-size: 30px;
+}
+.card:hover{
+	transform: scale(1.05,1.05);
+	transition: 1s ease;
+}
+input[type="text"]{
+	height: 40px;
+	width: 200px;
+	border-radius: 10px;
+}
+input[type="password"]{
+	height: 40px;
+	width: 200px;
+	border-radius: 10px;
+}
+input[type="number"]{
+	height: 40px;
+	width: 200px;
+	border-radius: 10px;
+}
+form{
+	margin-top: 100px;
+
+}
+.submit{
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.card{
+	float: left;
+}
+
+
+
+
+
+.images img:hover{
+	transform:scale(1.09,1.09);
+	transition: 1s ease;
+	box-shadow: 1px 1px 3px blue;
+
+}
+
+.images img{
+	padding:15px;
+}
